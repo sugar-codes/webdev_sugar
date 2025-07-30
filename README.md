@@ -1,2 +1,2 @@
 # webdev_sugar
-contains my web development progress
+contains projects made by me in html & css
